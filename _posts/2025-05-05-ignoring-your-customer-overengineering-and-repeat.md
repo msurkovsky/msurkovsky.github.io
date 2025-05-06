@@ -9,9 +9,10 @@ reddit_link:
 **Lessons from Our First Startup Accelerator**
 
 We thought we were building a helpful app for busy parents.  
-We ended up building something vague, bloated — and unfinished.  
+We ended up building something vague, bloated, and unfinished.  
 A mentor gave us the advice that changed everything...
 
+---
 
 It was May 2023.
 

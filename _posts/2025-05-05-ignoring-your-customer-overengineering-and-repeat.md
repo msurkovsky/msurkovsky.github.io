@@ -2,7 +2,7 @@
 layout: "post"
 title: "Ignoring Your Customers, Over-Engineering, and Repeat"
 date: "2025-05-06 20:00:00 +0100"
-categories: Startup Journey, Nomlify
+categories: Startup-Journey Nomlify
 reddit_link: 
 ---
 

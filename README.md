@@ -1,4 +1,4 @@
-# Kobzol's blog
+# Martin's blog
 
 ## Build
 1) Install [Jekyll](https://jekyllrb.com/)

@@ -19,12 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Martin Surkovsky's blog
-email: martin.surkovsky@gmail.com
+author:
+  name: Martin Surkovsky
+  email: martin.surkovsky@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Building startups, writing code, sharing insights.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msurkovsky.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: msurkovsky
+# github_username: msurkovsky
 google_analytics: G-R2X7157SCR
 
 # Build settings
@@ -54,3 +57,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    - title: msurkovsky
+      icon: "github"
+      url: "https://github.com/msurkovsky"

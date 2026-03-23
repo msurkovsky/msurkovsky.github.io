@@ -59,6 +59,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+sass:
+  sourcemap: never
+
 minima:
   skin: msurkovsky
   social_links:

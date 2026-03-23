@@ -60,6 +60,7 @@ plugins:
 #   - vendor/ruby/
 
 minima:
+  skin: msurkovsky
   social_links:
     - title: msurkovsky
       icon: "github"

@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+$color-scheme-auto: false;
+$color-scheme-dark: true;
+
+// Dark mode overrides matching surkovsky.cz
+$dm-brand-color:           #f0b84a;
+$dm-brand-color-light:     lighten($dm-brand-color, 15%);
+$dm-brand-color-dimmed:    darken($dm-brand-color, 10%);
+$dm-brand-color-dark:      darken($dm-brand-color, 25%);
+
+$dm-site-title-color:      #ebebeb;
+
+$dm-heading-color:         #ebebeb;
+$dm-text-color:            #c8c8c8;
+$dm-background-color:      #1c1c1c;
+$dm-code-background-color: #292929;
+
+$dm-link-base-color:       #f0b84a;
+$dm-link-visited-color:    darken(#f0b84a, 10%);
+$dm-link-hover-color:      lighten(#f0b84a, 10%);
+
+$dm-border-color-01:       #333333;
+$dm-border-color-02:       #2a2a2a;
+$dm-border-color-03:       #3a3a3a;
+
+$dm-table-text-color:      #c8c8c8;
+$dm-table-zebra-color:     #242424;
+$dm-table-header-bg-color: #292929;
+$dm-table-header-border:   #444444;
+$dm-table-border-color:    #333333;
+
+@import "minima/skins/auto";
